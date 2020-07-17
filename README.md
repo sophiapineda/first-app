@@ -1,3 +1,17 @@
+[markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
+**bold**
+
+_italics_
+
+### h3
+
+##### h5
+
+| column 1 | column 2 |
+| -------- | -------- |
+| apple    | banana   |
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
